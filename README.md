@@ -194,6 +194,6 @@ The commands `bash`, `curl`, `wget`, `grep`, `sed`, `awk`, `find`, `xargs`, `sor
 - https://oreobiscuit.gitbook.io/introduction has a huge amount of bug bounty relevant information.
 - https://apis.guru/graphql-voyager/ good for graphql schema visualisation.
 - https://www.intigriti.com/researchers/blog good for reading about creative ways to exploit vulnerabilitys + docs for learning about niche vulnerability classes.
-- https://infosecsanyam.medium.com/web-application-security-bug-bounty-methodology-reconnaissance-vulnerabilities-reporting-635073cddcf2 huge amount of writeups for very complexed vulnerabilitys, worth reading.
+- https://infosecsanyam.medium.com/web-application-security-bug-bounty-methodology-reconnaissance-vulnerabilities-reporting-635073cddcf2 huge amount of writeups for complexed vulnerabilitys, worth reading.
 - https://www.openbugbounty.org/bugbounty-list/ can be useful for finding niche new programs.
 - https://seclists.org/fulldisclosure/ good to find the latest new vulnerabilitys explained well.
