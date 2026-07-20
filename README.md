@@ -75,6 +75,11 @@ target.com/
 │       └── interesting_subdomain_name/
 │           ├── all-endpoints.txt
 │           ├── interesting-endpoints.md
+│           ├── cloud_storage.md
+│           ├── authentication.md
+│           ├── authorization.md
+│           ├── business-logic.md
+│           ├── api-notes.md
 │           ├── api-spec-probes.tsv
 │           ├── openapi.json
 │           ├── openapi-operations.tsv
@@ -82,11 +87,6 @@ target.com/
 │           ├── openapi-security-schemes.tsv
 │           ├── graphql-client-leads.txt
 │           ├── graphql-schema.json
-│           ├── cloud_storage.md
-│           ├── authentication.md
-│           ├── authorization.md
-│           ├── business-logic.md
-│           ├── api-notes.md
 │           ├── javascript-review.md
 │           └── technology-notes.md
 │
